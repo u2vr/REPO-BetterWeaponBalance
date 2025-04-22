@@ -1,0 +1,9 @@
+{
+    "name": "BetterWeaponBalance",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/u2vr/BetterWeaponBalance",
+    "description": "12 tranq, 6 shells for shotgun, 12 bullets for handgun and no more infinite ammo bug!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
